@@ -1,0 +1,123 @@
+
+export const designs = [
+  {
+    id: 1,
+    title: "Luxury Bedroom",
+    desc: "Elegant bedroom with warm lighting and modern furniture.",
+    image: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 2,
+    title: "Modern Kitchen",
+    desc: "Stylish kitchen with clean layout and premium finish.",
+    image: "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 3,
+    title: "Living Room",
+    desc: "Cozy and aesthetic living room interior design.",
+    image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 4,
+    title: "Office Space",
+    desc: "Modern office interior for productivity and focus.",
+    image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 5,
+    title: "Luxury Bathroom",
+    desc: "Spa-like bathroom with marble finish.",
+    image: "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 6,
+    title: "Dining Area",
+    desc: "Elegant dining space with modern interior.",
+    image: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 7,
+    title: "Apartment Design",
+    desc: "Modern apartment interior with smart layout.",
+    image: "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 8,
+    title: "Scandinavian Style",
+    desc: "Minimal and clean Scandinavian design.",
+    image: "https://images.unsplash.com/photo-1505693314120-0d443867891c?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 9,
+    title: "Kitchen Island",
+    desc: "Luxury kitchen with island counter setup.",
+    image: "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 10,
+    title: "Home Office",
+    desc: "Clean workspace designed for productivity.",
+    image: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 11,
+    title: "Cozy Bedroom",
+    desc: "Warm and comfortable bedroom setup.",
+    image: "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 12,
+    title: "Luxury Hall",
+    desc: "Grand hall interior with premium design.",
+    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 13,
+    title: "TV Lounge",
+    desc: "Entertainment-focused modern lounge.",
+    image: "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 14,
+    title: "Elegant Staircase",
+    desc: "Stylish staircase with modern lighting.",
+    image: "https://images.unsplash.com/photo-1501183638710-841dd1904471?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 15,
+    title: "Luxury Villa",
+    desc: "High-end villa interior design.",
+    image: "https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 16,
+    title: "Modern Bedroom Suite",
+    desc: "Premium bedroom suite interior.",
+    image: "https://images.unsplash.com/photo-1615874959474-d609969a20ed?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 17,
+    title: "Open Kitchen",
+    desc: "Open space modern kitchen design.",
+    image: "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 18,
+    title: "Office Room",
+    desc: "Executive office interior design.",
+    image: "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 19,
+    title: "Bathroom Spa",
+    desc: "Relaxing spa-style bathroom.",
+    image: "https://images.unsplash.com/photo-1564540586988-aa4e53c3d799?auto=format&fit=crop&w=1200&q=80",
+  },
+  {
+    id: 20,
+    title: "Studio Apartment",
+    desc: "Compact modern studio design.",
+    image: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+  },
+];
