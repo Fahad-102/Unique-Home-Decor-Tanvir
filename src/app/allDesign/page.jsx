@@ -7,9 +7,7 @@ const AllDesignPage = () => {
   return (
     <div className="max-w-6xl mx-auto py-10 grid md:grid-cols-3 gap-6 ">
       {designs.map((item) => (
-        <Link key={item.id} href={`/design/${item.id}`}>
-          <DesignsCard item={item} />
-        </Link>
+          <DesignsCard key={item.id} item={item} />
       ))}
     </div>
   );

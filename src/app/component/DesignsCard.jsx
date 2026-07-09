@@ -1,3 +1,4 @@
+"use client"
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
@@ -5,7 +6,7 @@ import React from 'react';
 const DesignsCard = ({item}) => {
     return (
         <div>
-             <div key={item.id} className="card bg-base-100 shadow-md hover:scale-[1.02] transition duration-300 ">
+             <div key={item.id} className="card bg-base-100 shadow-md hover:scale-[1.02] transition duration-800 ">
           <figure className="h-64 overflow-hidden">
             <Image
               src={item.image}

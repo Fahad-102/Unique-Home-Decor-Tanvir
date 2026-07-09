@@ -89,7 +89,7 @@ const Navbar = () => {
         href="https://wa.me/8801830480102"
         target="_blank"
         rel="noopener noreferrer"
-        className="inline-flex items-center gap-2 rounded-full border-2 border-green-500 px-4 py-1.5 text-sm font-bold text-green-500 transition-all duration-300 hover:bg-green-500 hover:text-white"
+        className="inline-flex items-center gap-2 rounded-full border-2 border-green-500 px-4 py-1.5 text-sm font-bold text-green-500 transition-all duration-1000 hover:bg-green-500 hover:text-white"
         >
       <FaWhatsapp className="text-lg md:text-xl" />
       <span className="hidden sm:inline">WhatsApp</span>
