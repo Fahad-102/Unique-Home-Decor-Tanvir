@@ -7,8 +7,8 @@ const josefinSans = Josefin_Sans({
 });
 
 export const metadata = {
-  title: "AERENA - Interior Design",
-  description: "TRANFORMING SPACES . CREATING VALUE",
+  title: "DARNA - PROPERTY TRANSFORMATION STUDIO",
+  description: "Reviving Spaces, Creating Memories",
 };
 
 export default function RootLayout({ children }) {

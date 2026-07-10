@@ -11,7 +11,7 @@ const Banner = () => {
     return (
         <div>
 
-           <Swiper navigation pagination={true} autoplay={{delay:3000}} modules={[Pagination,Navigation,Autoplay]} className="mySwiper">
+           <Swiper navigation pagination={true} autoplay={{delay:3000}} modules={[Pagination,Navigation,Autoplay]} className="mySwiper mt-1 ">
 
         
         <SwiperSlide>
@@ -26,7 +26,7 @@ const Banner = () => {
             <div className="hero-content text-neutral-content text-center">
               <div className="max-w-md">
                 <h1 className="mb-5 text-5xl font-semibold">
-                  <span className="text-red-700 font-bold">AERENA</span> – Luxury Interior Design
+                  <span className="text-red-700 font-bold">DARNA</span> – Luxury Interior Design
                 </h1>
                 <p className="mb-5">
                   Transform your home into a modern aesthetic space with expert interior design solutions,
@@ -53,7 +53,7 @@ const Banner = () => {
             <div className="hero-content text-neutral-content text-center">
               <div className="max-w-md">
                 <h1 className="mb-5 text-5xl font-semibold">
-                  <span className="text-red-700 font-bold">AERENA</span> – Modern Kitchen
+                  <span className="text-red-700 font-bold">DARNA</span> – Modern Kitchen
                 </h1>
                 <p className="mb-5">
                   Stylish kitchen interiors with smart storage, premium finishes,
@@ -80,7 +80,7 @@ const Banner = () => {
             <div className="hero-content text-neutral-content text-center">
               <div className="max-w-md">
                 <h1 className="mb-5 text-5xl font-semibold">
-                  <span className="text-red-700 font-bold">AERENA</span> – Living Room
+                  <span className="text-red-700 font-bold">DARNA</span> – Living Room
                 </h1>
                 <p className="mb-5">
                   Contemporary living room designs with cozy ambiance,
@@ -107,7 +107,7 @@ const Banner = () => {
             <div className="hero-content text-neutral-content text-center">
               <div className="max-w-md">
                 <h1 className="mb-5 text-5xl font-semibold">
-                  <span className="text-red-700 font-bold">AERENA</span> - Office Space
+                  <span className="text-red-700 font-bold">DARNA</span> - Office Space
                 </h1>
                 <p className="mb-5">
                   Professional office interiors designed for productivity,

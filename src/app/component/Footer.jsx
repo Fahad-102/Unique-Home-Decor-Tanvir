@@ -12,11 +12,11 @@ const Footer = () => {
             <div>
                <Link href="/" className="flex items-center gap-2">
               <Image
-              src="/Aerenalogo.jpeg"
+              src="/Logo2.png"
               alt="logo"
               width={100}
               height={60}
-              className="w-70 h-20"
+              className="w-70 h-25"
               suppressHydrationWarning
               />
             </Link>
@@ -42,7 +42,7 @@ const Footer = () => {
     </div>
   </nav>
   <aside>
-    <p>Copyright © {new Date().getFullYear()} - All right reserved by AERENA</p>
+    <p>Copyright © {new Date().getFullYear()} - All right reserved by DARNA</p>
     <p>Developed By Muhammad Fahad Bin Jamal</p>
   </aside>
 </footer>

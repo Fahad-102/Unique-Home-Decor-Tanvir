@@ -18,7 +18,7 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="sticky top-0 z-50 w-full border-b border-gray-200 bg-white/80 backdrop-blur-md">
+    <nav className="sticky top-0 z-50 w-full border-b border-gray-200 bg-white/70 backdrop-blur-md">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           
@@ -66,11 +66,11 @@ const Navbar = () => {
           <div className="flex flex-1 justify-center lg:absolute lg:left-1/2 lg:-translate-x-1/2">
             <Link href="/" className="flex items-center gap-2">
               <Image
-              src="/Aerenalogo.jpeg"
+              src="/logo1.png"
               alt="logo"
-              width={100}
-              height={50}
-              className="w-70 h-20 p-3"
+              width={120}
+              height={80}
+              className="w-70 h-25 p-6"
               suppressHydrationWarning
               priority
               />

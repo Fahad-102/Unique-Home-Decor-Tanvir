@@ -21,7 +21,7 @@ const FAQ = () => {
   ];
 
   return (
-    <div className="max-w-6xl mx-auto my-16 px-6">
+    <div className="max-w-6xl mx-auto my-16 px-6 mt-30">
       <div className="text-center mb-12">
         <h2 className="text-4xl font-serif font-bold text-gray-800 mb-4">Frequently Asked Questions</h2>
         <p className="text-gray-500 italic">Discover the essence of luxury living.</p>
