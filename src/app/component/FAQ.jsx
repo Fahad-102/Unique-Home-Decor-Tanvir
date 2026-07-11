@@ -1,24 +1,48 @@
 import React from 'react';
 
 const FAQ = () => {
-  const faqs = [
-    {
-      question: "What makes interior design 'Dubai style'?",
-      answer: "Dubai-style interior design is defined by a blend of ultra-modern minimalism, high-quality materials like Italian marble, gold/brass accent finishes, and floor-to-ceiling lighting that creates a sense of grand luxury."
-    },
-    {
-      question: "Do you use premium materials for these designs?",
-      answer: "Yes, we focus on high-end finishes, including bespoke marble surfaces, velvet upholstery, and professional-grade metal accents to ensure your home reflects that signature Dubai elegance."
-    },
-    {
-      question: "Can I achieve a luxury look in a small space?",
-      answer: "Absolutely. We specialize in space optimization, using reflective surfaces, smart lighting, and multi-functional high-end furniture to make even smaller apartments feel expansive and grand."
-    },
-    {
-      question: "How do you incorporate lighting in luxury interiors?",
-      answer: "We use a layered lighting approach: warm cove lighting for ambiance, bold sculptural chandeliers as focal points, and automated smart controls to create the perfect mood."
-    }
-  ];
+ const faqs = [
+  {
+    question: "What is the typical timeline for a luxury villa renovation?",
+    answer: "A complete villa transformation typically takes 12-20 weeks, depending on the complexity of the design, material sourcing, and authority approvals."
+  },
+  {
+    question: "Do you handle the authority approvals and NOCs?",
+    answer: "Yes, our in-house team manages all community management NOCs and official building authority approvals so you have a stress-free experience."
+  },
+  {
+    question: "Is your pricing transparent?",
+    answer: "Absolutely. All quotations are detailed through the Microsoft Dynamics ERP System, ensuring you know exactly where your investment is going."
+  },
+  {
+    question: "Can you help with custom furniture design?",
+    answer: "Yes, we offer bespoke furniture design services, ensuring every piece fits your space perfectly and matches the overall luxury aesthetic."
+  },
+  {
+    question: "Do you provide warranties on your work?",
+    answer: "We offer up to 10 years of warranty on kitchens, wardrobes, and cabinets, using premium materials like Egger (Germany) and AGT (Turkey)."
+  },
+  {
+    question: "Can I visit an experience center?",
+    answer: "Yes, we encourage you to visit our Experience Center to see firsthand the quality of our tiles, sanitaryware, flooring, and kitchen materials."
+  },
+  {
+    question: "Do you offer interior design services for commercial offices?",
+    answer: "Yes, we design productive, high-end office spaces that balance luxury aesthetics with functionality for corporate professionals."
+  },
+  {
+    question: "How do you ensure budget control?",
+    answer: "We work strictly within your defined budget while maintaining the highest quality standards, providing detailed breakdowns before any work begins."
+  },
+  {
+    question: "Do you provide 3D visualisations before starting?",
+    answer: "Yes, we provide free 2D and 3D basic designs to help you visualize the finished space before construction starts."
+  },
+  {
+    question: "How many technicians will work on my site?",
+    answer: "We have a dedicated team of over 150+ licensed and skilled technicians and engineers to ensure high-quality execution throughout your project."
+  }
+];
 
   return (
     <div className="max-w-6xl mx-auto my-16 px-6 mt-30">

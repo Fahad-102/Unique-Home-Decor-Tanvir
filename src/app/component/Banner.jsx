@@ -11,7 +11,7 @@ const Banner = () => {
     return (
         <div>
 
-           <Swiper navigation pagination={true} autoplay={{delay:3000}} modules={[Pagination,Navigation,Autoplay]} className="mySwiper mt-1 h-190">
+           <Swiper navigation pagination={true} autoplay={{delay:5000}} modules={[Pagination,Navigation,Autoplay]} className="mySwiper mt-1 h-190">
 
         
         <SwiperSlide>
