@@ -18,9 +18,6 @@ export default function RenovationStats() {
           <h2 className="text-3xl md:text-5xl font-bold text-amber-500 mb-8">
             Professionals
           </h2>
-          <button className="btn bg-black text-amber-500 border-amber-500 hover:bg-amber-500 hover:text-black transition-all">
-            More Details
-          </button>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
