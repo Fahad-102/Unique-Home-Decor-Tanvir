@@ -41,7 +41,7 @@ const Footer = () => {
             <div className="relative z-10 bg-black/60 backdrop-blur-sm p-10 flex flex-col items-center">
                 <div className="mb-6">
                     <Link href="/" className="flex items-center gap-2">
-                        <Image src="/Logo5.png" alt="logo" width={250} height={50} />
+                        <Image src="/logo5.png" alt="logo" width={250} height={50} />
                     </Link>
                 </div>
                 
