@@ -63,7 +63,7 @@ const CompanyDetailsPage = () => {
             <h3 className="text-2xl font-bold mb-6 text-center text-yellow-500">Why Trust DARNA Interior?</h3>
             <div className="grid md:grid-cols-3 gap-6">
               {[
-                "2+ Years of Experience in Dubai",
+                "4+ Years of Experience in Dubai",
                 "Physical Shop at Dragon Mart",
                 "Extreme Attention to Detail",
                 "High Customer Satisfaction",
