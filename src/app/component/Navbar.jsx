@@ -95,9 +95,16 @@ const Navbar = () => {
           </div>
 
           {/* Whatsapp */}
-          <Link href="https://wa.me/+971505066411?text=Hello" target="_blank" className="flex gap-2 items-center rounded-full border border-yellow-600/50 px-5 py-2 text-sm font-bold text-yellow-500 hover:bg-yellow-600 hover:text-white transition-all duration-300">
-            <FaWhatsapp className="text-lg" /> <span className="hidden sm:inline">WhatsApp</span>
-          </Link>
+          {/* WhatsApp Button */}
+<Link 
+  href="https://wa.me/+971505066411?text=Hello,%20I%20found%20your%20contact%20information%20on%20your%20website.%20I%20am%20looking%20for%20interior%20design/renovation%20services%20for%20my%20space.%20Are%20you%20available%20for%20a%20quick%20discussion%20about%20your%20services?" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  className="flex gap-2 items-center rounded-full border border-yellow-600/50 px-5 py-2 text-sm font-bold text-yellow-500 hover:bg-yellow-600 hover:text-white transition-all duration-300"
+>
+  <FaWhatsapp className="text-lg" /> 
+  <span className="hidden sm:inline">WhatsApp</span>
+</Link>
         </div>
       </div>
 
